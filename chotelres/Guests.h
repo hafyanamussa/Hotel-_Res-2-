@@ -4,6 +4,10 @@
 #include "Information.h"
 #include <string>
 
+/*
+ * Guests: Tracks guests with respect to check in, check out dates, guest information, and room details and store information.
+ */
+
 class Guests {
 private:
     Date checkIn;

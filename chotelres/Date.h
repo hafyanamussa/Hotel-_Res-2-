@@ -4,6 +4,10 @@
 #include <iostream>
 #include <string>
 
+/*
+ * Date:  Categorizes a real calendar date using month, day, and year values.
+*/
+
 class Date {
 private:
     int month;
@@ -24,8 +28,8 @@ public:
     int getDay() const;
     int getYear() const;
 
-    void print() const;          // still allowed
-    std::string toString() const; // NEW (important)
+    void print() const;
+    std::string toString() const;
 };
 
 #endif

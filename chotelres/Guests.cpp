@@ -1,9 +1,9 @@
 #include "Guests.h"
 #include <sstream>
 
-Guests::Guests() : guestCount(0), roomNumber(0) {}
+Guests::Guests() : guestCount(0), roomNumber(0) {} //Default Constructor
 
-Guests::Guests(const Date& in, const Date& out, int room) {
+Guests::Guests(const Date& in, const Date& out, int room) { //Parameterized Constructor
     checkIn = in;
     checkOut = out;
     guestCount = 0;
@@ -11,7 +11,7 @@ Guests::Guests(const Date& in, const Date& out, int room) {
 }
 
 
-Guests::Guests(const Guests& other) {
+Guests::Guests(const Guests& other) { //Copy Constructor
     checkIn = other.checkIn;
     checkOut = other.checkOut;
     guestCount = other.guestCount;
@@ -22,7 +22,7 @@ Guests::Guests(const Guests& other) {
     }
 }
 
-Guests::~Guests() {}
+Guests::~Guests() {} //Deconstructor
 
 void Guests::addGuest(const Information& info) {
     if (guestCount < 4) {
@@ -45,13 +45,16 @@ Date Guests::getCheckOut() const {
 std::string Guests::toString() const {
     std::stringstream ss;
 
+    /* Gets information from above and returns a string describing the reservation, 
+    including room number, check in and out, and a count of guests.*/
+
     ss << "Room: " << roomNumber << "\n";
     ss << "Check-in: " << checkIn.toString() << "\n";
     ss << "Check-out: " << checkOut.toString() << "\n";
     ss << "Guests:\n";
 
     for (int i = 0; i < guestCount; i++) {
-        ss << " - " << guests[i].toString() << "\n";
+        ss << " - " << guests[i].toString() << "\n"; // Add each guest string representation with -
     }
 
     return ss.str();

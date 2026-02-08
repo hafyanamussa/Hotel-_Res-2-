@@ -4,6 +4,10 @@
 #include "Date.h"
 #include <string>
 
+/*
+ * Information: Tracks and stores customer information such as first name, last name, and date of birth.
+ */
+
 class Information {
 private:
     char firstName[30];
@@ -16,8 +20,8 @@ public:
     Information(const Information& other);
     ~Information();
 
-    void print() const;          // optional
-    std::string toString() const; // NEW
+    void print() const;
+    std::string toString() const;
 };
 
 #endif

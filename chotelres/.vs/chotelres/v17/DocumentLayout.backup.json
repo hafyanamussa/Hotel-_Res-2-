@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Reservation_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Reservation_Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Guests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests_Res_Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CD46D17-9D9E-49D0-BE37-9D5316A561FB}|chotelres.vcxproj|solutionrelative:Guests_Res_Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation_Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Reservation_Manager.cpp",
+              "RelativeDocumentMoniker": "Reservation_Manager.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Reservation_Manager.cpp",
+              "RelativeToolTip": "Reservation_Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:29:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:28:38.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Information.cpp",
+              "RelativeDocumentMoniker": "Information.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Information.cpp",
+              "RelativeToolTip": "Information.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:26:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guests_Res_Request.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests_Res_Request.cpp",
+              "RelativeDocumentMoniker": "Guests_Res_Request.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests_Res_Request.cpp",
+              "RelativeToolTip": "Guests_Res_Request.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:24:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guests.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests.cpp",
+              "RelativeDocumentMoniker": "Guests.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Guests.cpp",
+              "RelativeToolTip": "Guests.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:21:04.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Date.cpp",
+              "RelativeDocumentMoniker": "Date.cpp",
+              "ToolTip": "C:\\Users\\amirs\\OneDrive\\Desktop\\Hotel-_Res-2--main\\chotelres\\Date.cpp",
+              "RelativeToolTip": "Date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T02:06:49.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

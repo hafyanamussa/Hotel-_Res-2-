@@ -4,6 +4,10 @@
 
 #include "Guests.h"
 
+/*
+ * Guest Reservation Request: Allows customers to book rooms in hotel and get provided with a custom identification (reservationID), and well as counting number of days for stay.
+ */
+
 class Guests_Res_Request {
 private:
     static int counter;

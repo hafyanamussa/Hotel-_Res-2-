@@ -1,0 +1,25 @@
+#pragma once
+#ifndef GUESTS_RES_REQUEST_H
+#define GUESTS_RES_REQUEST_H
+
+#include "Guests.h"
+
+class Guests_Res_Request {
+private:
+    static int counter;
+    int reservationID;
+    Guests guests;
+    int numberOfNights;
+
+public:
+    Guests_Res_Request(const Guests& g, int nights);
+    ~Guests_Res_Request();
+
+    int getReservationID() const;
+    int getNumberOfNights() const;
+    Guests getGuests() const;
+
+    void print() const;
+};
+
+#endif

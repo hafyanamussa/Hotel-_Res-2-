@@ -4,6 +4,10 @@
 
 #include "Guests_Res_Request.h"
 
+/*
+ * Reservation_Manager: For hotel room reservations which can track guest requests, rooms for the week, and handle reservation bookings/cancellations.
+ */
+
 class Reservation_Manager {
 private:
     int max_no_of_nights;
